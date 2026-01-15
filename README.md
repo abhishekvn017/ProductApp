@@ -194,10 +194,6 @@ If port 3000 is already in use, change the `PORT` in your `.env` file.
 - Check that Google provider is enabled in Supabase
 - Ensure credentials are correctly configured
 
-## 📝 License
-
-ISC
-
 ## 👤 Author
 
 **Abhishek VN**
