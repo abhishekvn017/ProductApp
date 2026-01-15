@@ -220,5 +220,6 @@ Contributions, issues, and feature requests are welcome!
 - [Google Fonts](https://fonts.google.com) - Typography
 
 ---
-
+<div align="center">
 Made with ❤️ by Abhishek VN
+</div>
